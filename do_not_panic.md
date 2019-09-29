@@ -11,18 +11,24 @@
 
 [Listen to this blog](https://soundcloud.com/atlassian-software/perseverance-gumption-traps-and-maintaining-a-growth-mindset)
 
-**Here’s a simple illustration highlighting the differences between a fixed and a growth mindset:**
+**As an example, we went through a live experiemnet by learning a new topic, which is Markdown. At first I got confused. So I went one, two, three times reading the assignment, and then I got my hands on to learn by trial and error, with the help of Googling and of course paying attention to the instructor at the begenning also my friends aid, whether the TA's or my peers I finally got the full picture of it**
 
 
-![growth mindset](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
+![Aha moment](https://miro.medium.com/max/812/1*RsWsOpG0jjfxc-gYnXY78w.png)
 
+**so Markdown as explained in wikipedia, is a lightweight markup language with plain text formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML.**[[1]](https://en.wikipedia.org/wiki/Markdown)
 
-**Today we learned about Markdown, and how it is used to Markdown is a lightweight markup language with plain text formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML.**[[1]](https://en.wikipedia.org/wiki/Markdown)
+**Headings
+To create a heading, add one to six # symbols before your heading text. The number of # you use will determine the size of the heading.
 
+# The largest heading
+## The second largest heading
+###### The smallest heading**
 
-Journal entry ideas:
+![](https://help.github.com/assets/images/help/writing/headings-rendered.png)
 
-Blog Article (2-3 paragraphs with code sample)
-Dictionary / Flash Cards
-Notes in outline form
-Fill-in-the-blank worksheet of key concepts
+**Also to show text as bold and italic	*** *** , as you can see** ***Hello***
+
+**To show a Strikethrough at the words	~~ ~~ as follow** ~~Hello~~
+
+# To understand new concepts, it is recommended to go through the keywords and memorize them! But what we can do to help us in memorizing new words is using Flash cards, you can use this website: [](https://www.cram.com/)
