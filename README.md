@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# How you can benefit from a growth mindset
+=======
 
-You can use the [editor on GitHub](https://github.com/fatfooot/Learning-Journal-1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+*To be creative you need to embrace the growth mindset. So you can achieve high goals.*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 3 reminders to yourself of how to keep yourself in a growth mindset
+=======
 
-### Markdown
+###### Numbered list:
+=======
+  1. Challenges
+  2. Obstacles
+  3. Effort
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+![What is a growth mindset?](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fatfooot/Learning-Journal-1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[I'm an inline-style link](https://www.google.com)
