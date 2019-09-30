@@ -39,6 +39,8 @@ So to be creative you need to embrace the growth mindset. So you can achieve hig
 
 **Fatima Shubeilat** - [Follow me at Github](https://github.com/fatfooot)
 
+**Bio** *Time is precious, waste it wisely.*
+
 
 
 
