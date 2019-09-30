@@ -1,9 +1,26 @@
-# How you can benefit from a growth mindset
+# Learning Journal
+
+Here I will be taking you to my own experience to describe how learning can be a great help to growth your mind, if you choose it to be a thing that can be developed.
+
+## Getting Started
+
+Allow me to choose my experience in learning how to publish pages at Github.
+
+
+### Prerequisites 
+
+Firstly you need to get familiar with [Markdown](https://help.github.com/en/articles/basic-writing-and-formatting-syntax) that helps you to format your code in a simple way.
+
+Then we need to check [how to create our own website](https://guides.github.com/features/pages/) at GitHub
+
+
+# So how you can benefit from a growth mindset
 =========================================
 
-## To be creative you need to embrace the growth mindset. So you can achieve high goals.
+As shown, I started with no idea what is exactly Github is, also this is the first time I knew what was Markdown! first I had some problems and struggles in understanding each of it, but by reading on and on also by trial and error also the help of others it was finally clear! I felt at first that I am a complete potato, but then things became better by time and trying.
+So to be creative you need to embrace the growth mindset. So you can achieve high goals.
 
-## 3 reminders to yourself of how to keep yourself in a growth mindset:
+## 3 reminders to myself of how to keep yourself in a growth mindset:
   1. Challenges
   2. Obstacles
   3. Effort
@@ -18,8 +35,9 @@
 | [Text Editors](https://fatfooot.github.io/Learning-Journal/texteditors)
   
 
+## Author
 
-![What is a growth mindset?](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
+**Fatima Shubeilat** - [Follow me at Github](https://github.com/fatfooot)
 
 
 
