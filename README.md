@@ -13,7 +13,7 @@
 ## Table Content
 
 | Topics to learn |
-| ----------------   | - 
+| ----------------   |
 | [Do Not Panic!](https://fatfooot.github.io/Learning-Journal/do_not_panic)
 | [Text Editors](https://fatfooot.github.io/Learning-Journal/texteditors)
   
