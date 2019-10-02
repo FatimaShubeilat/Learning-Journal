@@ -11,19 +11,20 @@ Before Starting it is highly recommended to be familiar with Terminal (As for Ma
 
 ### Installing
 
-You can check [here](https://fatfooot.github.io/Learning-Journal/texteditors) to know exactly how to deal with the CLI and to learn more about it
+You can check [here](https://fatfooot.github.io/Learning-Journal/texteditors) to know exactly how to deal with the CLI and to learn more about it also how to download and install it.
 
 ### What is Git?
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+so Git is a DVCS that stores data in a file made of snapshots, when you save a changed version of your project (called commit) it will create a snapshot of the file and stores a reference of it.
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+By working localy you can check the history of edits without the need to be online or when using a vpn.
 
-## License
+So since it is locally stored it will not be lost if the server is down.
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+To apply the files that are inside Git can be done by 
+three steps:
+1- Commited
+2- Modified 
+3- Staged
 
-## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+
