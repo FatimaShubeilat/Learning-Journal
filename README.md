@@ -1,8 +1,11 @@
 # Personal Introdcution 
 
 **Name**: Fatima Shubeilat
+>
 **Major**: Computer Engineering
+>
 **Bio** *Time is precious, waste it wisely.*
+>
 [Follow me at Github](https://github.com/fatfooot)
 
 ```
