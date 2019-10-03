@@ -47,6 +47,12 @@ So to be creative you need to embrace the growth mindset. So you can achieve hig
 | ----------------   |
 | [Do Not Panic!](https://fatfooot.github.io/Learning-Journal/do_not_panic)
 | [Text Editors](https://fatfooot.github.io/Learning-Journal/texteditors)
+| [CSS](https://fatfooot.github.io/Learning-Journal/CSS)
+| [GitIntro](https://fatfooot.github.io/Learning-Journal/GitIntro)
+| [HTML](https://fatfooot.github.io/Learning-Journal/HTML)
+| [How-Computers-Work](https://fatfooot.github.io/Learning-Journal/How-Computers-Work)
+| [JavaScript](https://fatfooot.github.io/Learning-Journal/JavaScript)
+| [Programming with JavaScript](https://fatfooot.github.io/Learning-Journal/Programming-with-JavaScript)
   
 
 
