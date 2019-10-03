@@ -1,3 +1,14 @@
+# Personal Introdcution 
+
+**Name**: Fatima Shubeilat
+**Major**: Computer Engineering
+**Bio** *Time is precious, waste it wisely.*
+[Follow me at Github](https://github.com/fatfooot)
+
+```
+I have always have been a persuading to follow my passion in computer science since the day we have bought a PC to our house in 1996, and from that moment I could not stop myself from trying to explore everything interesting about it, as this grows by time, to see how it was an astonishing miracle, to translate all our senses into 0’s and 1’s.
+```
+
 # Learning Journal
 
 Here I will be taking you to my own experience to describe how learning can be a great help to growth your mind, if you choose it to be a thing that can be developed.
@@ -35,11 +46,9 @@ So to be creative you need to embrace the growth mindset. So you can achieve hig
 | [Text Editors](https://fatfooot.github.io/Learning-Journal/texteditors)
   
 
-## Author
 
-**Fatima Shubeilat** - [Follow me at Github](https://github.com/fatfooot)
 
-**Bio** *Time is precious, waste it wisely.*
+
 
 
 
